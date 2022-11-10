@@ -323,12 +323,16 @@ footer .container{
 
     #caracteristicas .container{
         text-align: initial;
+     
     }
 
     #caracteristicas ul{
         margin-left: 100px;
     }
 
+    #caracteristicas .img-container{
+        text-align: center;
+    }
     #final h2{
         font-size: 5em;
     }
